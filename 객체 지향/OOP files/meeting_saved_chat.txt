@@ -1,0 +1,272 @@
+22:59:11 From 김해수 _ to Everyone:
+	네
+22:59:11 From 김동환 _ to Everyone:
+	네
+22:59:12 From 최수연 _ to Everyone:
+	네
+22:59:15 From 이준혁 _ to Everyone:
+	네
+22:59:22 From 김영화 _ to Everyone:
+	네
+22:59:22 From 이승수 _ to Everyone:
+	네
+23:03:33 From 김민성 _ to Everyone:
+	벡터 3번째 요소 삭제
+23:05:45 From 이은정 _ to Sunghan Kim(direct message):
+	3번째 요소 지워지고, 순서대로 v1의 값, 주소가 출력?
+23:05:50 From 김영화 _ to Everyone:
+	주소값이 출력될 것 같습니다
+23:05:56 From 이준혁 _ to Everyone:
+	포인터의 주소가 출력됩니다
+23:06:12 From 김민성 _ to Everyone:
+	포인터의 주소값이 출력됩니다.
+23:06:21 From 최수연 _ to Everyone:
+	포인터의 주ㅅ
+23:06:23 From 이은정 _ to Sunghan Kim(direct message):
+	현재 포인터의 주소
+23:06:24 From 이승모 _ to Everyone:
+	포인터의 주소값
+23:06:24 From 당주형 _ to Sunghan Kim(direct message):
+	포인터의 주소
+23:06:25 From 김영화 _ to Everyone:
+	포인터의 주소입니다
+23:06:26 From 박평진 _ to Everyone:
+	포인터의 주소
+23:06:27 From 이승수 _ to Everyone:
+	포인터의 주소
+23:06:27 From 김해수 _ to Everyone:
+	포인터의 주소
+23:06:27 From 유진성 _ to Everyone:
+	포인터의 주소값
+23:06:27 From 권성주 _ to Sunghan Kim(direct message):
+	포인터의 주소
+23:06:29 From 김동환 _ to Everyone:
+	포인터의 주소
+23:06:29 From 이유진 _ to Everyone:
+	포인터의 주솟값입ㄴ디ㅏ
+23:06:33 From 박종호 _ to Everyone:
+	포인터의 주소
+23:06:52 From 조한빈 _ to Everyone:
+	포인터의 주소
+23:06:57 From 남수찬 _ to Everyone:
+	포인터의 주소
+23:07:06 From 김효정 _ to Everyone:
+	포인터의 주소
+23:07:23 From 김민성 _ to Everyone:
+	안 바뀝니다.
+23:07:26 From 김영화 _ to Everyone:
+	안 바뀝니다
+23:07:28 From 당주형 _ to Sunghan Kim(direct message):
+	안바뀝니다
+23:07:33 From 이준혁 _ to Everyone:
+	안바뀝니다
+23:07:35 From 이승모 _ to Everyone:
+	안바뀝니다
+23:07:37 From 박종호 _ to Everyone:
+	안바뀝니다.
+23:07:37 From 남수찬 _ to Everyone:
+	안 바뀝니다
+23:07:37 From 김효정 _ to Everyone:
+	안바뀔거같습니다
+23:07:38 From 이승수 _ to Everyone:
+	안 바뀝니다
+23:07:39 From 김선후 _ to Everyone:
+	안바뀝니다
+23:07:39 From 이유진 _ to Everyone:
+	안바뀝ㅁ니다
+23:07:39 From 김동환 _ to Everyone:
+	안바뀝니다
+23:07:39 From 김해수 _ to Everyone:
+	안 바뀝니다
+23:07:41 From 권성주 _ to Sunghan Kim(direct message):
+	안 바뀝니다
+23:07:48 From 유진성 _ to Everyone:
+	안바뀔거같습니다
+23:07:49 From 조한빈 _ to Everyone:
+	안바뀝니다
+23:19:18 From 김동환 _ to Everyone:
+	됩니다
+23:19:25 From 이현진 _ to Sunghan Kim(direct message):
+	됩니다
+23:19:28 From 박평진 _ to Everyone:
+	둘 다 됩니다
+23:19:29 From 김해수 _ to Everyone:
+	됩니다
+23:19:30 From 김민성 _ to Everyone:
+	됩니다.
+23:19:38 From 박종호 _ to Everyone:
+	됩니다
+23:19:40 From 김영화 _ to Everyone:
+	됩니다
+23:19:55 From 조한빈 _ to Everyone:
+	됩니다
+23:20:15 From 이승모 _ to Everyone:
+	됩니다
+23:21:12 From 김동환 _ to Sunghan Kim(direct message):
+	계속 정렬 되면서 비교하기 때문에 2개만 비교해도 됩니다
+23:21:26 From 김동환 _ to Everyone:
+	계속 정렬 되면서 비교하기 때문에 2개만 비교해도 됩니다
+23:24:26 From 김민성 _ to Everyone:
+	foodVector.end()
+23:25:06 From 김동환 _ to Sunghan Kim(direct message):
+	마지막 사람이 가장 큰 손이면 종료합니다.
+23:25:11 From 김해수 _ to Sunghan Kim(direct message):
+	마지막 두 요소가 조건을 만족하면 끝날 것 같습니다
+23:25:18 From 이은정 _ to Sunghan Kim(direct message):
+	 i, i-1 크기 비교해서 모두 조건 만족?
+23:25:36 From 이은정 _ to Everyone:
+	i, i-1 크기 비교해서 모두 조건 만족
+23:26:41 From 이은정 _ to Sunghan Kim(direct message):
+	9개?
+23:26:47 From 조한빈 _ to Sunghan Kim(direct message):
+	9개?
+23:27:05 From 김동환 _ to Everyone:
+	네
+23:27:17 From 이현진 _ to Sunghan Kim(direct message):
+	네
+23:27:17 From 조한빈 _ to Sunghan Kim(direct message):
+	네! 살짝 이해됐어요
+23:30:48 From 권성주 _ to Sunghan Kim(direct message):
+	네
+23:30:51 From 김동환 _ to Everyone:
+	이해했습니다
+23:30:52 From 이은정 _ to Sunghan Kim(direct message):
+	이해 갑니다
+23:30:52 From 김해수 _ to Everyone:
+	이해했습니다
+23:36:34 From 김동환 _ to Sunghan Kim(direct message):
+	혹시 Crying하고 Dying은 어떨때 나오는 건가요
+23:37:18 From 김동환 _ to Sunghan Kim(direct message):
+	네 이해했습니다
+23:38:42 From 김민성 _ to Sunghan Kim(direct message):
+	class Circle {		private:			int radius;		public:			Circle(int r) {				radius = r;			}				int getRadius() {				return radius;			}	};
+23:41:20 From 김민성 _ to Sunghan Kim(direct message):
+	class Circle {		private:			int radius;		public:			Circle(int r) {				cout << "start" << endl;				radius = r;			}				~Circle() {				cout << "dying" << endl;			}				int getRadius() {				return radius;			}	};
+23:41:37 From 김민성 _ to Everyone:
+	class Circle {		private:			int radius;		public:			Circle(int r) {				cout << "start" << endl;				radius = r;			}				~Circle() {				cout << "dying" << endl;			}				int getRadius() {				return radius;			}	};
+23:44:13 From 박평진 _ to Everyone:
+	vector 헤더파일을 import해서 에러를 지울 수 있습니다
+23:44:16 From 이은정 _ to Sunghan Kim(direct message):
+	#include <vector > 안 된 것 같습니다
+23:44:16 From 이승모 _ to Sunghan Kim(direct message):
+	헤더파일을 추가해야 합니다
+23:44:16 From 김민성 _ to Everyone:
+	#include <vector>
+23:44:18 From 이현진 _ to Sunghan Kim(direct message):
+	#include <vector>
+23:44:19 From 김영화 _ to Everyone:
+	#include <vector>	해야합니다
+23:44:19 From 김동환 _ to Everyone:
+	#include <vector을 안넣어줘서입니다
+23:44:26 From 김해수 _ to Sunghan Kim(direct message):
+	#include <vector>
+23:44:28 From 조한빈 _ to Sunghan Kim(direct message):
+	#include <vector>가 없어서 오류가 뜹니다
+23:47:18 From 김민성 _ to Sunghan Kim(direct message):
+	객체가 복사될 때 소멸자가 호출되기 때문에 push_back 할 때 벡터에 객체가 복사되기 때문입니다.
+23:47:45 From 김민성 _ to Everyone:
+	객체가 복사될 때 소멸자가 호출되기 때문에 push_back 할 때 벡터에 객체가 복사되기 때문입니다.
+23:49:06 From 이은정 _ to Sunghan Kim(direct message):
+	로컬입니다
+23:49:20 From 박평진 _ to Everyone:
+	for문 scope 안의 local 변수입니다
+23:49:25 From 김영화 _ to Sunghan Kim(direct message):
+	로커링요
+23:49:26 From 최수연 _ to Everyone:
+	로컬이요
+23:49:30 From 조한빈 _ to Sunghan Kim(direct message):
+	로컬 변수이요
+23:49:30 From 김효정 _ to Sunghan Kim(direct message):
+	로컬변수입니다
+23:49:32 From 박종호 _ to Everyone:
+	local입니다
+23:49:33 From 이준혁 _ to Everyone:
+	로컬입니다
+23:49:35 From 이승모 _ to Everyone:
+	로컬입니다
+23:49:35 From 권성주 _ to Sunghan Kim(direct message):
+	로컬입니다
+23:49:36 From 이승수 _ to Everyone:
+	local입니다
+23:49:36 From 김해수 _ to Everyone:
+	로컬입니다
+23:49:38 From 김영화 _ to Everyone:
+	로컬입니다
+23:49:38 From 남수찬 _ to Everyone:
+	local입니다
+23:49:39 From 김동환 _ to Everyone:
+	로컬입니다
+23:49:44 From 이현진 _ to Sunghan Kim(direct message):
+	로컬입니다
+23:49:49 From 이유진 _ to Everyone:
+	로컬입니다
+23:51:02 From 김동환 _ to Sunghan Kim(direct message):
+	c?
+23:51:12 From 박평진 _ to Everyone:
+	cirVector의 요소들이 삭제되어서 그런 것 같습니다
+23:51:30 From 김효정 _ to Everyone:
+	Reacted to "cirVector의 요소들이 삭제되어..." with 👍
+23:51:34 From 박종호 _ to Everyone:
+	Reacted to "cirVector의 요소들이 삭제되어..." with 👍
+23:51:37 From 김영화 _ to Everyone:
+	Reacted to "cirVector의 요소들이 삭제되어..." with 👍
+23:51:42 From 이승수 _ to Everyone:
+	Reacted to "cirVector의 요소들이 삭제되어..." with 👍
+23:51:51 From 권성주 _ to Everyone:
+	Reacted to "cirVector의 요소들이 삭제되어..." with 👍
+23:51:52 From 김해수 _ to Everyone:
+	Reacted to "cirVector의 요소들이 삭제되어..." with 👍
+23:51:54 From 김동환 _ to Everyone:
+	Reacted to "cirVector의 요소들이 삭제되어..." with 👍
+23:53:07 From 김효정 _ to Everyone:
+	Removed a 👍 reaction from "cirVector의 요소들이 삭제되어…"
+23:53:08 From 김효정 _ to Everyone:
+	Reacted to "cirVector의 요소들이 삭제되어…" with 👍
+23:53:48 From 박종호 _ to Everyone:
+	없습니다
+23:53:48 From 유진성 _ to Everyone:
+	Reacted to "cirVector의 요소들이 삭제되어…" with 👍
+23:53:49 From 김영화 _ to Everyone:
+	없습니다
+23:53:57 From 이승수 _ to Everyone:
+	없습니다
+23:53:58 From 이유진 _ to Sunghan Kim(direct message):
+	랩 시험 대체 프로그램에 대해서는 공지가 따로 올라오나요?
+23:54:20 From 유진성 _ to Everyone:
+	없습니다
+23:54:28 From 조한빈 _ to Sunghan Kim(direct message):
+	중간고사 관련되서 올려주신 것은 이론적인 문제가 많던데 코드 작성하는 문제가 많을까요 ?
+23:54:29 From 박평진 _ to Everyone:
+	감사합니다
+23:54:29 From 이승수 _ to Everyone:
+	고생하셨습니다
+23:54:30 From 권성주 _ to Sunghan Kim(direct message):
+	수고하셨습니다
+23:54:31 From 김영화 _ to Everyone:
+	수고하셨습니다
+23:54:32 From 김동환 _ to Everyone:
+	고생하셨습니다
+23:54:32 From 유진성 _ to Everyone:
+	수고하셨습니다
+23:54:32 From 이준혁 _ to Everyone:
+	수고하셨습니다
+23:54:34 From 이유진 _ to Everyone:
+	수고하셨습니다.
+23:54:35 From 김효정 _ to Everyone:
+	감사합니다!
+23:54:35 From 김해수 _ to Everyone:
+	고생하셨습니다
+23:54:36 From 남수찬 _ to Everyone:
+	수고하셨습니다
+23:54:37 From 이현진 _ to Sunghan Kim(direct message):
+	수고하셨습니다
+23:54:38 From 이승모 _ to Everyone:
+	수고하셨습니다.
+23:54:40 From 김선후 _ to Everyone:
+	수고하셨습ㅈ니다
+23:55:01 From 정재훈 _ to Everyone:
+	교수님 랩수업은 시험 대신 프로젝트인가요?
+23:55:50 From 조한빈 _ to Sunghan Kim(direct message):
+	네, 수고하셨습니다 !
+23:56:44 From 정재훈 _ to Everyone:
+	다음주에 중간고사 기간인데 수업은 그대로 진행하시나요?
